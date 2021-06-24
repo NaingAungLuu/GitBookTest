@@ -2,5 +2,3 @@
 
 1. [Linear Search](./#Linear-Search)
 
-
-
