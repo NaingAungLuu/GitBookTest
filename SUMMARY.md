@@ -7,3 +7,7 @@
   * [Arrays](page-data-structures-overview/pages-data-structures-arrays.md)
   * [Lists](page-data-structures-overview/lists.md)
 
+## Flutter Basics
+
+* [Flutter Installation](flutter-basics/flutter-installation.md)
+
